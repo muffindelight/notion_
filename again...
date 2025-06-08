@@ -1,0 +1,46 @@
+
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  {
+  "symbols": [
+    {
+      "proName": "FOREXCOM:SPXUSD",
+      "title": "S&P 500 Index"
+    },
+    {
+      "description": "",
+      "proName": "NYSE:RBLX"
+    },
+    {
+      "description": "",
+      "proName": "NASDAQ:TSLA"
+    },
+    {
+      "description": "",
+      "proName": "NASDAQ:AMD"
+    },
+    {
+      "description": "",
+      "proName": "NASDAQ:NVDA"
+    },
+    {
+      "description": "",
+      "proName": "NASDAQ:QQQ"
+    },
+    {
+      "description": "",
+      "proName": "NASDAQ:PLTR"
+    },
+    {
+      "description": "",
+      "proName": "CME_MINI:ES1!"
+    }
+  ],
+  "showSymbolLogo": true,
+  "isTransparent": true,
+  "displayMode": "adaptive",
+  "colorTheme": "dark",
+  "locale": "en"
+}
+  </script>
+</div>
